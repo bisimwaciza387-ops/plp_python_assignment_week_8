@@ -1,0 +1,31 @@
+PLP Python Week 8 Toolkit Plan
+
+Tool 1 — Number Checker
+This tool asks the user for a number and tells them whether it is positive, negative, or zero.
+
+Tool 2 — Shopping List
+This tool lets the user add items to a shopping list, view the list, and remove items.
+
+Tool 3 — Multiplication Table
+This tool asks for a number and uses a loop to print its multiplication table from 1 to 10.
+
+Menu text:
+
+=== My Python Toolkit ===
+
+Number Checker
+
+Shopping List
+
+Multiplication Table
+
+Quit
+
+Choose an option:
+
+Concepts used:
+
+Number Checker: input, conditionals, if/elif/else, f-strings
+Shopping List: list, loop, append, remove, in, conditionals, f-strings
+Multiplication Table: loop, range(), input, f-strings
+Main menu: while loop, if/elif/else, input
